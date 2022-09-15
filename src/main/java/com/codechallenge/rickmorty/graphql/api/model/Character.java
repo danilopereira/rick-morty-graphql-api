@@ -22,6 +22,7 @@ public class Character {
     private Location origin;
     private Location location;
     private String image;
+    @Builder.Default
     private List<String> episode = Collections.emptyList();
     private String url;
     private String created;

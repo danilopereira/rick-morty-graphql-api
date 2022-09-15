@@ -10,7 +10,7 @@
 ## How to run it?
 First of all, you'll need to:
 - Install Java 17 ([Windows](https://www.oracle.com/java/technologies/downloads/#java17)|[Mac](https://formulae.brew.sh/formula/openjdk@17))
-- Install [Gradle](https://gradle.org/install/)
+- Install [Gradle](https://gradle.org/install/) (version 6.8+)
 
 Then, you can just use one of the Make commands on the root folder of the project
 - ```make build``` to build the project
@@ -150,6 +150,6 @@ Response:
 }
 ```
 ## Conclusion
-It's my first time working with GraphQL and I have to admit that I have quite fun doing it.
+It's my first time working with GraphQL and I have to admit that I had quite fun doing it.
 Thank you for the opportunity. I hope you enjoy my code!
 If you have any questions, feel free to contact me under the email [danilopereirait@gmail.com](mailto:danilopereirait@gmail.com)
